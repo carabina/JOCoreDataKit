@@ -29,7 +29,7 @@ Pod::Spec.new do |s|
                    A simpler CoreData stack that help in the development process
                    DESC
 
-  s.homepage     = "https://github.com/jorjuela33/CoreDataKit"
+  s.homepage     = "https://github.com/jorjuela33/JOCoreDataKit"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -125,8 +125,8 @@ Pod::Spec.new do |s|
   # s.libraries = "iconv", "xml2"
 
 
-    s.source_files = "CoreDataKit/**/*.{swift}"
-  # s.resources = "CoreDataKit/**/*.{png,jpeg,jpg,storyboard,xib}"
+    s.source_files = "JOCoreDataKit/**/*.{swift}"
+  # s.resources = "JOCoreDataKit/**/*.{png,jpeg,jpg,storyboard,xib}"
 
   # ――― Project Settings ――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
